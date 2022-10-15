@@ -1,6 +1,7 @@
 # Rails AJAX Examples
 Change 1 local
 Change 2 local
+Change 2 github
 
 Rails ships with [turbolinks](https://github.com/turbolinks/turbolinks) which:
 
